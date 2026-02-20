@@ -36,7 +36,7 @@ hr-analytics/
 | **4. Détection des Outliers** | Règle 1.5 × IQR sur PerformanceScore et Salary, analyse par sous-groupes |
 | **5. Insights Business** | Performance par département, salary vs performance, ancienneté, recrutement |
 | **6. Synthèse** | Tableau récapitulatif des insights avec actions prioritaires |
-| **7. Bonus** | Dashboard interactif Plotly (optionnel) |
+| **7. Avancé** | Dashboard interactif Plotly (optionnel) |
 
 ---
 
