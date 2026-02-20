@@ -83,10 +83,10 @@ jupyter notebook HR_Analytics_Performance.ipynb
 ## 📂 Dataset
 
 Le dataset utilisé est le **Human Resources Dataset** disponible sur Kaggle :  
-🔗 [HRDataset_v14 — Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+🔗 [HRDataset_v14 - Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 **Variables clés :**
-- `PerformanceScore` — Niveau de performance (PIP / Needs Improvement / Fully Meets / Exceeds)
+- `PerformanceScore` - Niveau de performance (PIP / Needs Improvement / Fully Meets / Exceeds)
 - `Salary` - Salaire annuel en $
 - `Department` - Département de l'employé
 - `EngagementSurvey` - Score d'engagement (1-5)
